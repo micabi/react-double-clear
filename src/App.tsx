@@ -1,11 +1,11 @@
 /*!
-* [Module name]
-*
-* Copyright (c) [year] [fullname]
-*
-* This software is released under the MIT License.
-* http://opensource.org/licenses/mit-license.php
-*/
+ * [Module name]
+ *
+ * Copyright (c) [year] [fullname]
+ *
+ * This software is released under the MIT License.
+ * http://opensource.org/licenses/mit-license.php
+ */
 
 import './App.scss';
 import { JSX, ChangeEvent, useState } from 'react';
@@ -59,6 +59,7 @@ function App(): JSX.Element {
 
   return (
     <>
+      <div className="test"></div>
       <div className="wrap">
         <div className="cols">
           <InputAreaA

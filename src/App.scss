@@ -5,6 +5,16 @@
   text-align: center;
 }
 
+// .test {
+//   width: 150px;
+//   height: 150px;
+//   background-image: image-set(
+//     url('assets/myicon.avif') type('image/avif'),
+//     url('assets/myicon.webp') type('image/webp'),
+//     url('assets/myicon.png') type('image/png')
+//     );
+// }
+
 .wrap {
   display: flex;
   flex-wrap: wrap;
